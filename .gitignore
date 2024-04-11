@@ -3,3 +3,7 @@ lib
 
 # Executable
 cppaudiocapture
+
+.idea/
+
+cmake-build-debug/
